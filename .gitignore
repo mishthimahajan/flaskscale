@@ -8,5 +8,5 @@ __pycache__/
 .vscode/
 k8s/secrets.yaml
 flaskscale.tar
-screenshots/
+
 '@ | Set-Content .gitignore
